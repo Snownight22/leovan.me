@@ -1,4 +1,4 @@
-isbn	bool_link	blog_link	book	author	purchasing_date	reading_start_date	reading_finish_date	stars
+isbn	book_link	blog_link	book	author	purchasing_date	reading_start_date	reading_finish_date	stars
 9789862137192			為了活下去：脫北女孩朴研美	朴研美	2017-09-28	2017-12-03	2017-12-31	5
 4711225310442			巨流河	齊邦媛	2015-12-11			
 9787542631664			送你一颗子弹	刘瑜	2016-11-02			
