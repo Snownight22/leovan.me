@@ -24,7 +24,7 @@ p <- ggplot() +
     theme_void()
 print(p)
 
-ggsave('../../static/images/mc-pi.png', p, device = 'png',
+ggsave('../../static/images/cn/2017-12-17-mcmc-and-gibbs-sampling/mc-pi.png', p, device = 'png',
        width = 6, height = 6, units = 'cm',
        dpi = 150, scale = 1)
 
@@ -62,7 +62,7 @@ p <- ggplot() +
     theme_void()
 print(p)
 
-ggsave('../../static/images/mc-pi-simulation.png', p, device = 'png',
+ggsave('../../static/images/cn/2017-12-17-mcmc-and-gibbs-sampling/mc-pi-simulation.png', p, device = 'png',
        width = 6, height = 6, units = 'cm',
        dpi = 150, scale = 1)
 
