@@ -30,14 +30,14 @@ bbrbm_errs = bbrbm.fit(mnist_train_images, n_epoches=30, batch_size=10)
 
 # %%
 # sava trained RBM model
-bbrbm.save_weights('../../models/mnist-bbrbm/mnist-bbrbm', 'default')
-# bbrbm.load_weights('../../models/mnist-bbrbm/mnist-bbrbm', 'default')
+bbrbm.save_weights('../../output/cn/2018-01-17-ising-hopfield-and-rbm/mnist-bbrbm', 'default')
+# bbrbm.load_weights('../../output/cn/2018-01-17-ising-hopfield-and-rbm/mnist-bbrbm', 'default')
 
 # %%
 # plot bbrbm errors
 plt.style.use('ggplot')
 plt.plot(bbrbm_errs)
-plt.savefig('bbrbm-mnist-errs.png', bbox_inches='tight')
+plt.savefig('../../static/cn/2018-01-17-ising-hopfield-and-rbm/bbrbm-mnist-errs.png', bbox_inches='tight')
 
 # %%
 # sample test data and reconstruct data
@@ -92,7 +92,7 @@ def plot_mnist(mnist_images, nrows, ncols, cmap='gray'):
 # %%
 # plot test data and reconstruct data
 bbrbm_fig = plot_mnist(mnist_test_images_samples_plt, 10, 20)
-bbrbm_fig.savefig('bbrbm-mnist.png', bbox_inches='tight')
+bbrbm_fig.savefig('../../static/cn/2018-01-17-ising-hopfield-and-rbm/bbrbm-mnist.png', bbox_inches='tight')
 
 # %%
 # reconstruct error

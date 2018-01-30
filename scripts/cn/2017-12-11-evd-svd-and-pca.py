@@ -54,7 +54,7 @@ yticks([0, 1, 2], [r'$0$', r'$1$', r'$2$'])
 xlim(-0.5, 2.5)
 ylim(-0.5, 2.5)
 
-savefig('../../static/images/vector-inner-product-and-projection.png', dpi = dpi)
+savefig('../../static/images/cn/2017-12-11-evd-svd-and-pca/vector-inner-product-and-projection.png', dpi = dpi)
 
 # %%
 # Bases
@@ -93,7 +93,7 @@ yticks([0, 1, 2], [r'$0$', r'$1$', r'$2$'])
 xlim(-0.5, 3.5)
 ylim(-0.5, 2.5)
 
-savefig('../../static/images/vector-bases.png', dpi = dpi)
+savefig('../../static/images/cn/2017-12-11-evd-svd-and-pca/vector-bases.png', dpi = dpi)
 
 # %%
 # Change of bases
@@ -134,7 +134,7 @@ yticks([-1, 0, 1, 2, 3], [r'$-1$', r'$0$', r'$1$', r'$2$', r'$3$'])
 xlim(-1.5, 3.5)
 ylim(-1.5, 3.5)
 
-savefig('../../static/images/vector-change-of-bases.png', dpi = dpi)
+savefig('../../static/images/cn/2017-12-11-evd-svd-and-pca/vector-change-of-bases.png', dpi = dpi)
 
 # %%
 # Points projection in changed bases
@@ -170,7 +170,7 @@ yticks([-2, -1, 0, 1, 2], [r'$-2$', r'$-1$', r'$0$', r'$1$', r'$2$'])
 xlim(-2.5, 2.5)
 ylim(-2.5, 2.5)
 
-savefig('../../static/images/pca-projection.png', dpi = dpi)
+savefig('../../static/images/cn/2017-12-11-evd-svd-and-pca/pca-projection.png', dpi = dpi)
 
 # Vector linear transformation
 
@@ -207,7 +207,7 @@ yticks([-1, 0, 1,], [r'$-1$', r'$0$', r'$1$'])
 xlim(-0.5, 2.5)
 ylim(-1.5, 1.5)
 
-savefig('../../static/images/vector-linear-transformation-1.png', dpi = dpi)
+savefig('../../static/images/cn/2017-12-11-evd-svd-and-pca/vector-linear-transformation-1.png', dpi = dpi)
 # %%
 dpi = 100
 fig_width = 200
@@ -242,7 +242,7 @@ yticks([0, 1, 2], [r'$0$', r'$1$', r'$2$'])
 xlim(-0.5, 2.5)
 ylim(-0.5, 2.5)
 
-savefig('../../static/images/vector-linear-transformation-2.png', dpi = dpi)
+savefig('../../static/images/cn/2017-12-11-evd-svd-and-pca/vector-linear-transformation-2.png', dpi = dpi)
 # %%
 dpi = 100
 fig_width = 200
@@ -276,7 +276,7 @@ yticks([0, 1, 2], [r'$0$', r'$1$', r'$2$'])
 xlim(-0.5, 2.5)
 ylim(-0.5, 2.5)
 
-savefig('../../static/images/vector-linear-transformation-3.png', dpi = dpi)
+savefig('../../static/images/cn/2017-12-11-evd-svd-and-pca/vector-linear-transformation-3.png', dpi = dpi)
 # %%
 dpi = 100
 fig_width = 200
@@ -314,7 +314,7 @@ yticks([0, 1, 2], [r'$0$', r'$1$', r'$2$'])
 xlim(-0.5, 2.5)
 ylim(-0.5, 2.5)
 
-savefig('../../static/images/vector-linear-transformation-4.png', dpi = dpi)
+savefig('../../static/images/cn/2017-12-11-evd-svd-and-pca/vector-linear-transformation-4.png', dpi = dpi)
 # %%
 dpi = 100
 fig_width = 200
@@ -348,4 +348,4 @@ yticks([0, 1, 2], [r'$0$', r'$1$', r'$2$'])
 xlim(-0.5, 2.5)
 ylim(-0.5, 2.5)
 
-savefig('../../static/images/vector-linear-transformation-5.png', dpi = dpi)
+savefig('../../static/images/cn/2017-12-11-evd-svd-and-pca/vector-linear-transformation-5.png', dpi = dpi)

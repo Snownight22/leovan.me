@@ -37,7 +37,7 @@ points_generator <- function(size) {
     set.seed(112358)
     points_x <- runif(size, min = 0, max = 2*r)
     points_y <- runif(size, min = 0, max = 2*r)
-    
+
     tibble(
         x = points_x,
         y = points_y,
