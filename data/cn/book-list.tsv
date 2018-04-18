@@ -1,5 +1,5 @@
-isbn	book_link	blog_link	book	author	purchasing_date	reading_start_date	reading_finish_date	stars
-9789862137192			為了活下去：脫北女孩朴研美	朴研美	2017-09-28	2017-12-03	2017-12-31	5
+isbn	book_link	blog_link	title	author	purchasing_date	reading_start_date	reading_finish_date	rating
+9789862137192			為了活下去：脫北女孩朴研美	朴研美	2017-09-28	2017-12-03	2017-12-31	9
 4711225310442			巨流河	齊邦媛	2015-12-11			
 9787542631664			送你一颗子弹	刘瑜	2016-11-02			
 9787539957173			阿西莫夫：永恒的终结	Isaac Asimov	2016-11-02			
@@ -14,7 +14,7 @@ isbn	book_link	blog_link	book	author	purchasing_date	reading_start_date	reading_
 9787508653594			重新定义公司 --- 谷歌是如何运营的	Eric Schmidt, Jonathan Rosenberg, Alan Eagle	2015-09-01			
 9787210079026			谢谢自己够勇敢	张皓宸, 杨扬	2016-07-28			
 9789868456938			惡搞研習營	Chuck Palahniuk	2016-01-04			
-9787550278257			在宇宙间不易被风吹散	冯唐	2016-11-02	2018-02-03	2018-02-03	4
+9787550278257			在宇宙间不易被风吹散	冯唐	2016-11-02	2018-02-03	2018-02-03	8
 9787513303699			如何成为一个怪物	冯唐	2016-01-06			
 9787208061644			追风筝的人	Khaled Hosseini	2016-11-02			
 9787302399506			手机摄影大全 --- 轻松拍出大片味儿	柏松, 罗磊	2016-11-02			
@@ -31,9 +31,9 @@ isbn	book_link	blog_link	book	author	purchasing_date	reading_start_date	reading_
 9787550263024			柴犬绅士	David Fung, Yena Kim	2015-12-14			
 9787510842252			优秀的绵羊	William Deresiewicz	2017-06-01			
 9787213048425			荒野生存	Jon Krakauer	2017-07-31			
-9787111447405			中国航空故事	刘德生	2017-11-15	2017-11-16	2017-11-16	3
+9787111447405			中国航空故事	刘德生	2017-11-15	2017-11-16	2017-11-16	6
 9787535678096			造房子	王澍	2017-06-01			
-9787121286681			全世界最简单的西餐	J.-F. Mallet	2016-06-17			4
+9787121286681			全世界最简单的西餐	J.-F. Mallet	2016-06-17			8
 9787508636238			公正 --- 该如何做是好？	Michael J. Sandel	2016-01-19			
 9787121272295			失控	Kevin Kelly	2016-03-10			
 9789882194199			不二	馮唐	2017-08-28			
@@ -97,7 +97,7 @@ isbn	book_link	blog_link	book	author	purchasing_date	reading_start_date	reading_
 9789869316743			一把青創作劇本 (上)		2017-06-08			
 9789869316743			一把青創作劇本 (下)		2017-06-08			
 9787508630250			罗马人的故事 I - XV	盐野七生				
-9789570524888			新人生觀	羅家倫	2016-01-04		2017-10-31	5
+9789570524888			新人生觀	羅家倫	2016-01-04		2017-10-31	9
 9787213067792			最好的告别 --- 关于衰老与死亡，你必须知道的尝试	Atul Gawande	2016-11-05	2017-11-01		
 9780385486804			Into the Wild	Jon Krakauer	2017-07-30			
 9787533948108			浮生六记	沈复	2018-02-23			
